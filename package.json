@@ -1,7 +1,7 @@
 {
   "name": "scrollmap-git-diff",
   "description": "Show git diff markers on the scrollbar",
-  "repository": "https://github.com/asiloisad/pulsar-scrollmap-git-diff",
+  "repository": "https://github.com/asiloisad-pulsar/scrollmap-git-diff",
   "keywords": [
     "scrollmap",
     "git",
